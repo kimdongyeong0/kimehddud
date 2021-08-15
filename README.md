@@ -1,0 +1,4 @@
+- 👋 Hi, I’m dongyoeng kim
+- 👀 I’m interested in html, css, js, reactjs, nodejs, python, C, AI, data science, cmputer science
+- 🌱 I’m currently learning nodejs, AI, machine learning
+- 📫 How to reach me: instagram __dong_0, clubhouse dong_0 
